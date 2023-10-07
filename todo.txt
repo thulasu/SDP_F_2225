@@ -1,0 +1,7 @@
+MY todolist:
+1.write an archile
+2.code
+3.study books
+4.visit aunt
+5.attend the class on time
+6.apply for remote job.
